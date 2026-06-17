@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/demo/">
+    <Project Path="demo/ShadForms.Demo/ShadForms.Demo.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/ShadForms/ShadForms.csproj" />
+  </Folder>
+</Solution>
