@@ -10,4 +10,8 @@
 		<LangVersion>Latest</LangVersion>
 	</PropertyGroup>
 
+	<ItemGroup>
+		<EmbeddedResource Include="Assets\Fonts\*.ttf" />
+	</ItemGroup>
+
 </Project>
